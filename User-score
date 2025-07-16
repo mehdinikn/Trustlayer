@@ -1,0 +1,26 @@
+
+{
+  "users": [
+    {
+      "user_id": "10001",
+      "username": "emotion_rider",
+      "daily_score": 310,
+      "dominant_emotion": "calm",
+      "tasks_completed": [1, 2]
+    },
+    {
+      "user_id": "10002",
+      "username": "hopeful_soul",
+      "daily_score": 460,
+      "dominant_emotion": "gratitude",
+      "tasks_completed": [1, 3]
+    },
+    {
+      "user_id": "10003",
+      "username": "storm_inside",
+      "daily_score": 180,
+      "dominant_emotion": "anger",
+      "tasks_completed": [2]
+    }
+  ]
+}
